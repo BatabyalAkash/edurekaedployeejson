@@ -1,0 +1,37 @@
+[
+   {
+      "prjid":"1001",
+      "name":"Bank",
+      "tech":"Java",
+      "model":"Waterfall",
+      "location":"Bangalore"
+   },
+   {
+      "prjid":"1002",
+      "name":"Retail",
+      "tech":"Dot Net",
+      "model":"Waterfall",
+      "location":"Hyderabad"
+   },
+   {
+      "prjid":"1003",
+      "name":"Life Sciences",
+      "tech":"JavaScript",
+      "model":"Agile",
+      "location":"Kolkata"
+   },
+   {
+      "prjid":"1004",
+      "name":"Automobile",
+      "tech":"DevOps",
+      "model":"Agile",
+      "location":"Pune"
+   },
+   {
+      "prjid":"1005",
+      "name":"R&D",
+      "tech":"Miscelleneous",
+      "model":"Waterfall",
+      "location":"Mumbai"
+   }
+]
